@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 Projetos em Destaque (Estilo Cascata)
+## 💻 Projetos em Destaque 
 
 Abaixo estão meus principais projetos, desenvolvidos em equipe ou como contribuidor, refletindo minha experiência em tecnologias diversas.
 
