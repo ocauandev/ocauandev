@@ -8,7 +8,7 @@
 | **Título** | Desenvolvedor de Sistemas & Bacharelando em Ciência da Computação |
 | **Formação** | Técnico em Desenvolvimento de Sistemas |
 | **Acadêmico** | Cursando Ciência da Computação (UFRPE) |
-| **Experiência** | Freelancer em Suporte de Computadores e Desenvolvimento de Software |
+| **Experiência** | Suporte de Computadores e Desenvolvimento de Software |
 
 ---
 
@@ -40,17 +40,13 @@ Minhas atividades complementares, pesquisa e engajamento social.
 ### 🔬 Laboratório e Pesquisa
 * **Membro do:** **Laboratório de Robótica e Sistemas Embarcados da UFRPE (LARS/UFRPE)**.
 
-### 🤝 Ação Social
-* **Iniciativa:** Colaboração com o projeto **"Tamojunto"**.
-* **Impacto:** Organização e execução de uma semana de **aulas e competições de robótica** voltadas para crianças em comunidades carentes.
-
 ---
 
 ## 📧 Contato
 Interessado em colaborar em um projeto ou iniciar uma conversa?
 
 * **GitHub:** [peludo99](https://github.com/peludo99)
-* **LinkedIn:** [Seu Link do LinkedIn]
-* **Email:** [Seu Email]
+* **LinkedIn:** [https://www.linkedin.com/in/cauanazevedo/]
+* **Email:** [cauan.azevedo@ufrpe.br]
 
-> **Observação:** Este é o conteúdo formatado em Markdown. Para a implementação real do portfólio com o design *preto e roxo em estilo cascata* (como você solicitou), é necessário o código **HTML e CSS**.
+
