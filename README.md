@@ -1,4 +1,4 @@
-# 🌟 Portfólio de Desenvolvimento - Cauan Abraão Rodrigues de Azevedo
+#  Cauan Abraão Rodrigues de Azevedo
 
 ## 👤 Quem Eu Sou
 
