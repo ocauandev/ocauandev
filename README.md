@@ -38,7 +38,7 @@ Abaixo estão meus principais projetos, desenvolvidos em equipe ou como contribu
 Minhas atividades complementares, pesquisa e engajamento social.
 
 ### 🔬 Laboratório e Pesquisa
-* **Membro do:** **Laboratório de Robótica e Sistemas Embarcados da UFRPE (LARS/UFRPE)**.
+* **Membro do:** **Laboratório de Robótica e Sistemas Embarcados da UFRPE (LASER/UFRPE)**.
 
 ---
 
