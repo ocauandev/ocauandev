@@ -45,7 +45,7 @@ Minhas atividades complementares, pesquisa e engajamento social.
 ## 📧 Contato
 Interessado em colaborar em um projeto ou iniciar uma conversa?
 
-* **GitHub:** [peludo99](https://github.com/peludo99)
+* **GitHub:** [peludo99](https://github.com/ocauandev)
 * **LinkedIn:** [https://www.linkedin.com/in/cauanazevedo/]
 * **Email:** [cauan.azevedo@ufrpe.br]
 
