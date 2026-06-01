@@ -1,7 +1,7 @@
 # 🚀 Cauan Abraão Rodrigues de Azevedo
 **Desenvolvedor de Sistemas & Bacharelando em Ciência da Computação (UFRPE)**
 
-Olá! Sou ex-aluno técnico em Desenvolvimento de Sistemas e atual graduando em Ciência da Computação. Tenho experiência com suporte, desenvolvimento de software e faço parte do **LASER/UFRPE** (Laboratório de Robótica e Sistemas Embarcados).
+Olá! Sou técnico em Desenvolvimento de Sistemas e atual graduando em Ciência da Computação. Tenho experiência com suporte, desenvolvimento de software e faço parte do **LASER/UFRPE** (Laboratório de Robótica e Sistemas Embarcados).
 
 ---
 
