@@ -1,52 +1,44 @@
-#  Cauan Abraão Rodrigues de Azevedo
+# 🚀 Cauan Abraão Rodrigues de Azevedo
+**Desenvolvedor de Sistemas & Bacharelando em Ciência da Computação (UFRPE)**
 
-## 👤 Quem Eu Sou
+Olá! Sou ex-aluno técnico em Desenvolvimento de Sistemas e atual graduando em Ciência da Computação. Tenho experiência com suporte, desenvolvimento de software e faço parte do **LASER/UFRPE** (Laboratório de Robótica e Sistemas Embarcados).
 
-| | |
-| :--- | :--- |
-| **Nome Completo** | Cauan Abraão Rodrigues de Azevedo |
-| **Título** | Desenvolvedor de Sistemas & Bacharelando em Ciência da Computação |
-| **Formação** | Técnico em Desenvolvimento de Sistemas |
-| **Acadêmico** | Cursando Ciência da Computação (UFRPE) |
-| **Experiência** | Suporte de Computadores e Desenvolvimento de Software |
+---
+
+## 🛠️ Habilidades & Tecnologias
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ## 💻 Projetos em Destaque 
 
-Abaixo estão meus principais projetos, desenvolvidos em equipe ou como contribuidor, refletindo minha experiência em tecnologias diversas.
+### 🌍 Mapeando o Bem
+* **Descrição:** Rede social (código fechado) para gerenciamento e apoio a Casas de Apoio.
+* **Stack:** `PHP`, `Laravel`, `JavaScript`, `HTML/CSS`.
+* **Status:** Desenvolvido em equipe.
 
-### 1. 🌍 Mapeando o Bem
-* **Descrição:** Sistema de rede social de código fechado para gerenciamento e apoio a Casas de Apoio.
-* **Stack Principal:** HTML, CSS, PHP, JavaScript, e diversos frameworks.
-* **Status:** Projeto desenvolvido em equipe.
+### 📱 ColetaPlus
+* **Descrição:** App Android Nativo para gerenciamento de lixeiras inteligentes no campus da UFRPE.
+* **Stack:** `Kotlin` (Android Nativo).
+* **Status:** Open-source desenvolvido em equipe.
 
-### 2. 📱 ColetaPlus
-* **Descrição:** Software de código aberto (Android Nativo) para gerenciamento de lixeiras inteligentes no campus da UFRPE.
-* **Stack Principal:** **100% Kotlin** (Android Nativo).
-* **Status:** Projeto de código aberto desenvolvido em equipe.
-
-### 3. 🕹️ Biblioteca de Jogos (Contribuidor)
-* **Descrição:** Sistema completo de gerenciamento e credenciamento de itens da cultura geek.
-* **Stack Principal:** **100% Java**.
-* **Status:** Contribuidor em projeto de código aberto.
+### 🕹️ Biblioteca de Jogos
+* **Descrição:** Sistema de gerenciamento e credenciamento de itens da cultura geek.
+* **Stack:** `Java`.
+* **Status:** Contribuidor (Open-source).
 
 ---
 
-## 💡 Extracurricular e Formação Social
+## 📬 Vamos conversar?
 
-Minhas atividades complementares, pesquisa e engajamento social.
+Seja para projetos, pesquisas ou um café, entre em contato:
 
-### 🔬 Laboratório e Pesquisa
-* **Membro do:** **Laboratório de Robótica e Sistemas Embarcados da UFRPE (LASER/UFRPE)**.
-
----
-
-## 📧 Contato
-Interessado em colaborar em um projeto ou iniciar uma conversa?
-
-* **GitHub:** [ocauandev](https://github.com/ocauandev)
-* **LinkedIn:** [https://www.linkedin.com/in/cauanazevedo/]
-* **Email:** [cauan.azevedo@ufrpe.br]
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanazevedo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauan.azevedo@ufrpe.br)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ocauandev)
