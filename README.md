@@ -64,16 +64,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 4. Especialidade em IA/Machine Learning
-
-| Domínio | Proficiência | Detalhes |
-| :--- | :--- | :--- |
-| **Infraestrutura Local de LLMs** | Intermediário | Workflows locais utilizando Ollama para assistência automatizada na base de código. |
-| **Engenharia Assistida por IA** | Avançado | Integração do GitHub Copilot e ferramentas LLM para otimizar o ciclo de vida de desenvolvimento de software. |
-
----
-
-## 5. Projetos em Destaque
+## 4. Projetos em Destaque
 
 <details>
   <summary>🌐 <b>Mapeando o Bem</b></summary>
@@ -137,7 +128,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 6. Experiência
+## 5. Experiência
 
 ### 🔬 Desenvolvedor Full-Stack e Sistemas Embarcados | Laboratório LASER (UFRPE)
 *Março de 2026 -- Presente*
@@ -154,7 +145,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 7. Conquistas
+## 6. Conquistas
 
 <div align="center">
 
@@ -167,7 +158,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 8. Certificações
+## 7. Certificações
 
 ### 🎓 Instituições Acadêmicas e Profissionais
 * 🏫 **Curso Técnico em Desenvolvimento de Sistemas** -- Qualificação Estadual
@@ -175,7 +166,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 9. Perfis de Programação
+## 8. Perfis de Programação
 
 <div align="center">
   <a href="https://leetcode.com/ocauandev">
@@ -188,7 +179,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 10. Estatísticas do GitHub
+## 9. Estatísticas do GitHub
 
 <div align="center">
   <table border="0">
@@ -210,7 +201,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 11. Troféus do GitHub
+## 10. Troféus do GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ocauandev&theme=midnight&no-bg=true&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
@@ -218,7 +209,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 12. Atividade de Contribuições
+## 11. Atividade de Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocauandev&theme=react-dark&bg_color=111827&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true&locale=pt-br" alt="Gráfico de Atividades" />
@@ -226,7 +217,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 13. Jogo da Cobrinha (Contribuições)
+## 12. Jogo da Cobrinha (Contribuições)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ocauandev/ocauandev/output/github-contribution-grid-snake.svg" alt="Cobrinha de Contribuições" />
@@ -234,15 +225,9 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ---
 
-## 14. Foco Atual
+## 13. Foco Atual
 
 ```yaml
-Estudando:
-  - Programação Funcional com Haskell (Currículo Acadêmico)
-  - Frameworks de Proficiência em Inglês Técnico
-Construindo:
-  - Topologias de Firmware ESP32/FreeRTOS em Tempo Real
-  - Componentes Avançados de Client-Side para Plataformas de Laboratório
 Explorando:
   - Microsserviços e Arquiteturas Orientadas a Eventos no Laravel
 Aberto a:
