@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Cauan%20Abra%C3%A3o&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=Cauan%20Abra%C3%A3o&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Banner de Cabeçalho" />
   
   <br />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Software+Engineer;Computer+Science+Undergrad;Embedded+Systems+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Engenheiro+de+Software;Estudante+de+Ciencia+da+Computacao;Desenvolvedor+de+Sistemas+Embarcados" alt="Animação de Digitação" />
 
   <br />
 
-  [![UFRPE](https://img.shields.io/badge/Academic-UFRPE-7C3AED?style=flat-square&logo=education&logoColor=white)](https://www.ufrpe.br/)
-  [![LASER Lab](https://img.shields.io/badge/Research-LASER%20Lab-6D28D9?style=flat-square&logo=microchip&logoColor=white)](https://github.com/ocauandev)
-  [![SBC Member](https://img.shields.io/badge/SBC-Member-4C1D95?style=flat-square&logo=buffer&logoColor=white)](https://www.sbc.org.br/)
-  [![Location](https://img.shields.io/badge/Location-Recife,%20Brazil-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com)
+  [![UFRPE](https://img.shields.io/badge/Acadêmico-UFRPE-7C3AED?style=flat-square&logo=education&logoColor=white)](https://www.ufrpe.br/)
+  [![LASER Lab](https://img.shields.io/badge/Pesquisa-LASER%20Lab-6D28D9?style=flat-square&logo=microchip&logoColor=white)](https://github.com/ocauandev)
+  [![SBC Member](https://img.shields.io/badge/Membro-SBC-4C1D95?style=flat-square&logo=buffer&logoColor=white)](https://www.sbc.org.br/)
+  [![Location](https://img.shields.io/badge/Localização-Recife,%20Brasil-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
   <br />
 
@@ -20,31 +20,31 @@
 
   <br />
 
-  ![](https://komarev.com/ghpvc/?username=ocauandev&color=7C3AED&style=flat-square&label=PROFILE+VIEWS)
-  ![](https://img.shields.io/github/followers/ocauandev?style=flat-square&color=6D28D9)
-  ![](https://img.shields.io/github/stars/ocauandev?style=flat-square&color=4C1D95)
+  ![](https://komarev.com/ghpvc/?username=ocauandev&color=7C3AED&style=flat-square&label=VISUALIZAÇÕES+DO+PERFIL)
+  ![](https://img.shields.io/github/followers/ocauandev?style=flat-square&color=6D28D9&label=seguidores)
+  ![](https://img.shields.io/github/stars/ocauandev?style=flat-square&color=4C1D95&label=estrelas)
 </div>
 
 ---
 
-## 2. About Section
+## 2. Sobre Mim
 
-I am a technical Systems Development professional and a Computer Science undergraduate at the Federal Rural University of Pernambuco (UFRPE). With a solid foundation in software engineering principles, my background covers full-stack web architectures, embedded systems firmware, and agile collaboration.
+Sou um profissional técnico em Desenvolvimento de Sistemas e estudante de Ciência da Computação na Universidade Federal Rural de Pernambuco (UFRPE). Com uma base sólida em princípios de engenharia de software, minha experiência abrange arquiteturas web full-stack, firmware de sistemas embarcados e colaboração ágil.
 
-As an active researcher and developer at the LASER Laboratory (Embedded Systems and Robotics Laboratory), I design robust hardware-software integrations and scalable web platforms. I focus on clean code environments, performance tuning, and adopting advanced developer tooling to build impactful digital products.
+Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Sistemas Embarcados e Robótica), projeto integrações robustas de hardware-software e plataformas web escaláveis. Foco em ambientes de *clean code*, otimização de desempenho e na adoção de ferramentas avançadas de desenvolvimento para criar produtos digitais de impacto.
 
-### 🌌 Open To
-* Full-Stack Engineering Internships
-* Embedded Systems & Internet of Things (IoT) R&D[cite: 1]
-* Open-Source Software Contributions[cite: 1]
+### 🌌 Aberto a
+* Estágios em Engenharia Full-Stack
+* P&D em Sistemas Embarcados e Internet das Coisas (IoT)
+* Contribuições para Projetos Open-Source
 
 ---
 
-## 3. Tech Stack Section
+## 3. Tecnologias e Ferramentas
 
-### 💻 Languages
+### 💻 Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,kotlin,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,cpp,kotlin,java" alt="Linguagens" />
 </p>
 
 ### 🎨 Frontend
@@ -52,130 +52,130 @@ As an active researcher and developer at the LASER Laboratory (Embedded Systems 
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
 </p>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend e Bancos de Dados
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,postgres,mysql" alt="Backend & DB" />
 </p>
 
-### 🛠️ Cloud, DevOps & Tooling
+### 🛠️ Cloud, DevOps e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,githubactions,vscode" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,githubactions,vscode" alt="Ferramentas" />
 </p>
 
 ---
 
-## 4. AI/ML Expertise Section
+## 4. Especialidade em IA/Machine Learning
 
-| Domain | Proficiency | Details |
+| Domínio | Proficiência | Detalhes |
 | :--- | :--- | :--- |
-| **Local LLM Infrastructure** | Intermediate | Local workflows leveraging Ollama for automated codebase assistance.[cite: 1] |
-| **AI-Assisted Engineering** | Advanced | Integration of GitHub Copilot and LLM tools to optimize software lifecycles.[cite: 1] |
+| **Infraestrutura Local de LLMs** | Intermediário | Workflows locais utilizando Ollama para assistência automatizada na base de código. |
+| **Engenharia Assistida por IA** | Avançado | Integração do GitHub Copilot e ferramentas LLM para otimizar o ciclo de vida de desenvolvimento de software. |
 
 ---
 
-## 5. Featured Projects Section
+## 5. Projetos em Destaque
 
 <details>
   <summary>🌐 <b>Mapeando o Bem</b></summary>
   <br />
   
-  ### Description
-  A private, enterprise-grade social networking and management ecosystem designed to support and manage institutional shelter houses ("Casas de Apoio").[cite: 1]
+  ### Descrição
+  Um ecossistema privado de gestão e rede social de nível corporativo, projetado para apoiar e administrar Casas de Apoio institucionais.
 
-  ### Architecture Metrics
-  | Attribute | Specification |
+  ### Métricas de Arquitetura
+  | Atributo | Especificação |
   | :--- | :--- |
-  | **Stack** | `PHP`, `Laravel`, `JavaScript`, `HTML/CSS`[cite: 1] |
-  | **Scale** | Multi-tenant architecture supporting robust access roles[cite: 1] |
-  | **Performance** | Optimized Eloquent ORM queries with view-layer caching[cite: 1] |
-  | **Security** | Granular RBAC, CSRF protection, and secured private data storage[cite: 1] |
-  | **Impact** | Centralized operational workflows for humanitarian support groups[cite: 1] |
+  | **Stack** | `PHP`, `Laravel`, `JavaScript`, `HTML/CSS` |
+  | **Escala** | Arquitetura multi-tenant suportando regras robustas de acesso |
+  | **Desempenho** | Consultas otimizadas com Eloquent ORM e cache na camada de visualização |
+  | **Segurança** | RBAC granular, proteção CSRF e armazenamento seguro de dados privados |
+  | **Impacto** | Centralização de fluxos operacionais para grupos de apoio humanitário |
 
-  ### Repository
-  *Private Repository*[cite: 1]
+  ### Repositório
+  *Repositório Privado*
 </details>
 
 <details>
   <summary>📱 <b>ColetaPlus</b></summary>
   <br />
   
-  ### Description
-  Native Android application designed for real-time tracking, administration, and monitoring of IoT smart waste bins deployed across the UFRPE campus.[cite: 1]
+  ### Descrição
+  Aplicativo Android nativo projetado para rastreamento, administração e monitoramento em tempo real de lixeiras inteligentes (IoT) distribuídas pelo campus da UFRPE.
 
-  ### Architecture Metrics
-  | Attribute | Specification |
+  ### Métricas de Arquitetura
+  | Atributo | Especificação |
   | :--- | :--- |
-  | **Stack** | `Kotlin` (Android Nativo)[cite: 1] |
-  | **Scale** | Campus-wide active deployment scale[cite: 1] |
-  | **Performance** | Asynchronous data streams ensuring minimal main-thread load[cite: 1] |
-  | **Security** | Safe API authentication tokens and encrypted local storage[cite: 1] |
-  | **Impact** | Promotes data-driven environmental management and smart-campus infrastructure[cite: 1] |
+  | **Stack** | `Kotlin` (Android Nativo) |
+  | **Escala** | Implementação ativa em todo o campus |
+  | **Desempenho** | Fluxos de dados assíncronos garantindo carga mínima na thread principal |
+  | **Segurança** | Tokens seguros de autenticação de API e armazenamento local criptografado |
+  | **Impacto** | Promove gestão ambiental baseada em dados e infraestrutura de campus inteligente |
 
-  ### Repository
-  [📂 View Project](https://github.com/ocauandev)[cite: 1]
+  ### Repositório
+  [📂 Ver Projeto](https://github.com/ocauandev)
 </details>
 
 <details>
   <summary>🕹️ <b>Biblioteca de Jogos</b></summary>
   <br />
   
-  ### Description
-  An open-source centralized asset management and credentialing engine designed for organizing local geek culture exhibitions and item logs.[cite: 1]
+  ### Descrição
+  Um motor de gerenciamento de credenciais e ativos de código aberto centralizado, desenvolvido para organizar exposições da cultura geek local e registros de itens.
 
-  ### Architecture Metrics
-  | Attribute | Specification |
+  ### Métricas de Arquitetura
+  | Atributo | Especificação |
   | :--- | :--- |
-  | **Stack** | `Java`[cite: 1] |
-  | **Scale** | Extensible object-oriented structure handling extensive item entries[cite: 1] |
-  | **Performance** | Optimized in-memory search operations and structured database indexing[cite: 1] |
-  | **Security** | Input sanitization protocols preventing unauthorized structural state mutations[cite: 1] |
-  | **Impact** | Streamlined check-in operations during cultural event programming[cite: 1] |
+  | **Stack** | `Java` |
+  | **Escala** | Estrutura orientada a objetos extensível lidando com registros extensos de itens |
+  | **Desempenho** | Operações otimizadas de busca em memória e indexação estruturada de banco de dados |
+  | **Segurança** | Protocolos de sanitização de entrada prevenindo mutações estruturais não autorizadas |
+  | **Impacto** | Operações de check-in simplificadas durante a programação de eventos culturais |
 
-  ### Repository
-  [📂 View Project](https://github.com/ocauandev)[cite: 1]
+  ### Repositório
+  [📂 Ver Projeto](https://github.com/ocauandev)
 </details>
 
 ---
 
-## 6. Experience Section
+## 6. Experiência
 
-### 🔬 Embedded Systems & Full-Stack Developer | LASER Laboratory (UFRPE)
-*March 2026 -- Present*[cite: 1]
-* Architected, coded, and deployed the official institutional platform for the LASER laboratory using React.[cite: 1]
-* Maintained firmware systems using C++, FreeRTOS, and Object-Oriented principles for hardware components like the ESP32.[cite: 1]
-* Engineered integrations linking RFID RC522 modules with external APIs to manage peripheral access controls.[cite: 1]
-* **Skills:** `C++`, `FreeRTOS`, `ESP32`, `React`, `PlatformIO`, `Git`[cite: 1]
+### 🔬 Desenvolvedor Full-Stack e Sistemas Embarcados | Laboratório LASER (UFRPE)
+*Março de 2026 -- Presente*
+* Arquitetou, programou e implementou a plataforma institucional oficial para o laboratório LASER utilizando React.
+* Manteve sistemas de firmware usando C++, FreeRTOS e princípios de Orientação a Objetos para componentes de hardware como o ESP32.
+* Desenvolveu integrações conectando módulos RFID RC522 com APIs externas para gerenciar controles de acesso de periféricos.
+* **Habilidades:** `C++`, `FreeRTOS`, `ESP32`, `React`, `PlatformIO`, `Git`
 
-### 🏢 IT Support & Operations Apprentice | Unimed Recife
-*August 2024 -- April 2026*[cite: 1]
-* Provided hardware diagnostics, system imaging, and infrastructure support operations across corporate environments.[cite: 1]
-* Maintained system availability by resolving internal software, networking, and permission configurations.[cite: 1]
-* **Skills:** `Technical Support`, `Network Infrastructure`, `Operating Systems`, `Troubleshooting`[cite: 1]
+### 🏢 Aprendiz de Suporte de TI e Operações | Unimed Recife
+*Agosto de 2024 -- Abril de 2026*
+* Realizou diagnósticos de hardware, criação de imagens de sistema e operações de suporte de infraestrutura em ambientes corporativos.
+* Manteve a disponibilidade dos sistemas resolvendo configurações internas de software, redes e permissões.
+* **Habilidades:** `Suporte Técnico`, `Infraestrutura de Redes`, `Sistemas Operacionais`, `Troubleshooting`
 
 ---
 
-## 7. Achievements Section
+## 7. Conquistas
 
 <div align="center">
 
-| Recognition | Details |
+| Reconhecimento | Detalhes |
 | :--- | :--- |
-| **Extension & Innovation Scholarship** | Awarded competitive institutional research funding through Fadurpe (2026).[cite: 1] |
-| **SBC Student Membership** | Confirmed student membership within the Brazilian Computing Society (2026).[cite: 1] |
+| **Bolsa de Extensão e Inovação** | Contemplado com financiamento de pesquisa institucional competitivo através da Fadurpe (2026). |
+| **Membro Estudante da SBC** | Associação confirmada como membro estudante da Sociedade Brasileira de Computação (2026). |
 
 </div>
 
 ---
 
-## 8. Certifications Section
+## 8. Certificações
 
-### 🎓 Academic & Professional Providers
-* 🏫 **Technical Degree in Systems Development** -- State Qualification[cite: 1]
-* 🟣 **Serasa Experian "Transforme-se" Program** -- Tech Cohort Scholar (2026)[cite: 1]
+### 🎓 Instituições Acadêmicas e Profissionais
+* 🏫 **Curso Técnico em Desenvolvimento de Sistemas** -- Qualificação Estadual
+* 🟣 **Programa "Transforme-se" da Serasa Experian** -- Bolsista da Turma de Tecnologia (2026)
 
 ---
 
-## 9. Coding Profiles Section
+## 9. Perfis de Programação
 
 <div align="center">
   <a href="https://leetcode.com/ocauandev">
@@ -188,21 +188,21 @@ As an active researcher and developer at the LASER Laboratory (Embedded Systems 
 
 ---
 
-## 10. GitHub Analytics Section
+## 10. Estatísticas do GitHub
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ocauandev&show_icons=true&theme=dark&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=111827" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ocauandev&show_icons=true&theme=dark&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=111827&locale=pt-br" alt="Estatísticas do GitHub" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocauandev&theme=dark&hide_border=true&background=111827&title=A78BFA&ring=8B5CF6&fire=7C3AED&text=E9D5FF" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=ocauandev&theme=dark&hide_border=true&background=111827&title=A78BFA&ring=8B5CF6&fire=7C3AED&text=E9D5FF&locale=pt-br" alt="Estatísticas de Ofensiva" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocauandev&layout=compact&theme=dark&hide_border=true&title_color=A78BFA&text_color=E9D5FF&bg_color=111827" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocauandev&layout=compact&theme=dark&hide_border=true&title_color=A78BFA&text_color=E9D5FF&bg_color=111827&locale=pt-br" alt="Principais Linguagens" />
       </td>
     </tr>
   </table>
@@ -210,40 +210,40 @@ As an active researcher and developer at the LASER Laboratory (Embedded Systems 
 
 ---
 
-## 11. GitHub Trophies Section
+## 11. Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ocauandev&theme=midnight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ocauandev&theme=midnight&no-bg=true&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
 </div>
 
 ---
 
-## 12. Contribution Activity Section
+## 12. Atividade de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocauandev&theme=react-dark&bg_color=111827&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocauandev&theme=react-dark&bg_color=111827&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true&locale=pt-br" alt="Gráfico de Atividades" />
 </div>
 
 ---
 
-## 13. Contribution Snake Section
+## 13. Jogo da Cobrinha (Contribuições)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ocauandev/ocauandev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/ocauandev/ocauandev/output/github-contribution-grid-snake.svg" alt="Cobrinha de Contribuições" />
 </div>
 
 ---
 
-## 14. Current Focus Section
+## 14. Foco Atual
 
 ```yaml
-Learning:
-  - Functional Programming via Haskell (Academic Curriculum)
-  - Technical English Proficiency Frameworks
-Building:
-  - Real-time ESP32/FreeRTOS Firmware Topologies
-  - Advanced Client-Side Components for Laboratory Platforms
-Exploring:
-  - Micro-services and Event-Driven Architectures in Laravel
-Open To:
-  - Industry Internships & Collaborative Open-Source Systems
+Estudando:
+  - Programação Funcional com Haskell (Currículo Acadêmico)
+  - Frameworks de Proficiência em Inglês Técnico
+Construindo:
+  - Topologias de Firmware ESP32/FreeRTOS em Tempo Real
+  - Componentes Avançados de Client-Side para Plataformas de Laboratório
+Explorando:
+  - Microsserviços e Arquiteturas Orientadas a Eventos no Laravel
+Aberto a:
+  - Estágios na Indústria e Colaborações em Sistemas Open-Source
