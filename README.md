@@ -137,11 +137,6 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 * Desenvolveu integrações conectando módulos RFID RC522 com APIs externas para gerenciar controles de acesso de periféricos.
 * **Habilidades:** `C++`, `FreeRTOS`, `ESP32`, `React`, `PlatformIO`, `Git`
 
-### 🏢 Aprendiz de Suporte de TI e Operações | Unimed Recife
-*Agosto de 2024 -- Abril de 2026*
-* Realizou diagnósticos de hardware, criação de imagens de sistema e operações de suporte de infraestrutura em ambientes corporativos.
-* Manteve a disponibilidade dos sistemas resolvendo configurações internas de software, redes e permissões.
-* **Habilidades:** `Suporte Técnico`, `Infraestrutura de Redes`, `Sistemas Operacionais`, `Troubleshooting`
 
 ---
 
