@@ -3,14 +3,14 @@
   
   <br />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Engenheiro+de+Software;Estudante+de+Ciencia+da+Computacao;Desenvolvedor+de+Sistemas+Embarcados" alt="Animação de Digitação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Engenheiro+de+Software;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Pesquisador+em+Sistemas+Embarcados;Desenvolvedor+Full-Stack" alt="Typing SVG" />
 
   <br />
 
-  [![UFRPE](https://img.shields.io/badge/Acadêmico-UFRPE-7C3AED?style=flat-square&logo=education&logoColor=white)](https://www.ufrpe.br/)
+  [![UFRPE](https://img.shields.io/badge/Acad%C3%AAmico-UFRPE-7C3AED?style=flat-square&logo=education&logoColor=white)](https://www.ufrpe.br/)
   [![LASER Lab](https://img.shields.io/badge/Pesquisa-LASER%20Lab-6D28D9?style=flat-square&logo=microchip&logoColor=white)](https://github.com/ocauandev)
   [![SBC Member](https://img.shields.io/badge/Membro-SBC-4C1D95?style=flat-square&logo=buffer&logoColor=white)](https://www.sbc.org.br/)
-  [![Location](https://img.shields.io/badge/Localização-Recife,%20Brasil-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com)
+  [![Location](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Recife,%20Brasil-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
   <br />
 
@@ -20,7 +20,7 @@
 
   <br />
 
-  ![](https://komarev.com/ghpvc/?username=ocauandev&color=7C3AED&style=flat-square&label=VISUALIZAÇÕES+DO+PERFIL)
+  ![](https://komarev.com/ghpvc/?username=ocauandev&color=7C3AED&style=flat-square&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL)
   ![](https://img.shields.io/github/followers/ocauandev?style=flat-square&color=6D28D9&label=seguidores)
   ![](https://img.shields.io/github/stars/ocauandev?style=flat-square&color=4C1D95&label=estrelas)
 </div>
@@ -29,9 +29,9 @@
 
 ## 2. Sobre Mim
 
-Sou um profissional técnico em Desenvolvimento de Sistemas e estudante de Ciência da Computação na Universidade Federal Rural de Pernambuco (UFRPE). Com uma base sólida em princípios de engenharia de software, minha experiência abrange arquiteturas web full-stack, firmware de sistemas embarcados e colaboração ágil.
+Sou um profissional técnico em Desenvolvimento de Sistemas e estudante de Ciência da Computação na Universidade Federal Rural de Pernambuco (UFRPE). Com uma base sólida em princípios de engenharia de software, desenvolvimento web e sistemas embarcados, atuo em projetos que conectam hardware e software de forma escalável.
 
-Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Sistemas Embarcados e Robótica), projeto integrações robustas de hardware-software e plataformas web escaláveis. Foco em ambientes de *clean code*, otimização de desempenho e na adoção de ferramentas avançadas de desenvolvimento para criar produtos digitais de impacto.
+Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Sistemas Embarcados e Robótica), projeto integrações robustas de hardware-software e plataformas web escaláveis. Foco em criar soluções confiáveis, seguras e com impacto real.
 
 ### 🌌 Aberto a
 * Estágios em Engenharia Full-Stack
@@ -137,7 +137,6 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 * Desenvolveu integrações conectando módulos RFID RC522 com APIs externas para gerenciar controles de acesso de periféricos.
 * **Habilidades:** `C++`, `FreeRTOS`, `ESP32`, `React`, `PlatformIO`, `Git`
 
-
 ---
 
 ## 6. Conquistas
@@ -176,19 +175,30 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 
 ## 9. Estatísticas do GitHub
 
+> Observação: esses cards dependem de serviços externos. Se algum não carregar, verifique primeiro se o perfil possui contribuições públicas suficientes, se os commits estão no branch padrão/gh-pages, e se o e-mail de autoria está conectado à conta GitHub. O GitHub informa que gráficos/contribuições podem levar até 24h para atualizar após mudanças de histórico ou e-mail. Consulte [Viewing a project's contributors](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-a-projects-contributors) e [Troubleshooting missing contributions](https://docs.github.com/en/account-and-profile/how-tos/contribution-settings/troubleshooting-missing-contributions).
+
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ocauandev&show_icons=true&theme=dark&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=111827&locale=pt-br" alt="Estatísticas do GitHub" />
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=ocauandev&show_icons=true&theme=dark&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&bg_color=111827&locale=pt-br&count_private=true"
+          alt="Estatísticas do GitHub"
+        />
       </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=ocauandev&theme=dark&hide_border=true&background=111827&title=A78BFA&ring=8B5CF6&fire=7C3AED&text=E9D5FF&locale=pt-br" alt="Estatísticas de Ofensiva" />
+      <td align="center">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=ocauandev&theme=dark&hide_border=true&background=111827&title=A78BFA&ring=8B5CF6&fire=7C3AED&currStreakLabel=E9D5FF"
+          alt="Estatísticas de sequência de contribuições"
+        />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocauandev&layout=compact&theme=dark&hide_border=true&title_color=A78BFA&text_color=E9D5FF&bg_color=111827&locale=pt-br" alt="Principais Linguagens" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocauandev&layout=compact&theme=dark&hide_border=true&title_color=A78BFA&text_color=E9D5FF&bg_color=111827&locale=pt-br"
+          alt="Principais Linguagens"
+        />
       </td>
     </tr>
   </table>
@@ -215,7 +225,7 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
 ## 12. Jogo da Cobrinha (Contribuições)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ocauandev/ocauandev/output/github-contribution-grid-snake.svg" alt="Cobrinha de Contribuições" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=ocauandev&color_snake=7C3AED&color_dots=E9D5FF,8B5CF6,7C3AED,4C1D95,111827" alt="Cobrinha de Contribuições" />
 </div>
 
 ---
@@ -227,3 +237,4 @@ Explorando:
   - Microsserviços e Arquiteturas Orientadas a Eventos no Laravel
 Aberto a:
   - Estágios na Indústria e Colaborações em Sistemas Open-Source
+```
