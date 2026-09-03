@@ -204,37 +204,3 @@ Como pesquisador e desenvolvedor ativo no Laboratório LASER (Laboratório de Si
   </table>
 </div>
 
----
-
-## 10. Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ocauandev&theme=midnight&no-bg=true&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
-</div>
-
----
-
-## 11. Atividade de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocauandev&theme=react-dark&bg_color=111827&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true&locale=pt-br" alt="Gráfico de Atividades" />
-</div>
-
----
-
-## 12. Jogo da Cobrinha (Contribuições)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=ocauandev&color_snake=7C3AED&color_dots=E9D5FF,8B5CF6,7C3AED,4C1D95,111827" alt="Cobrinha de Contribuições" />
-</div>
-
----
-
-## 13. Foco Atual
-
-```yaml
-Explorando:
-  - Microsserviços e Arquiteturas Orientadas a Eventos no Laravel
-Aberto a:
-  - Estágios na Indústria e Colaborações em Sistemas Open-Source
-```
